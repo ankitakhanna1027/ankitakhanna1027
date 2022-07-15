@@ -4,7 +4,9 @@ Hello! My name is Ankita and I am currently a first-year MBA Candidate at the Si
 
 ## Background
 
-I was born in Calcutta, India but only lived there for the first year of my life. Because of my father's job, my family would move from country to country quite often, so other than India, I have also lived in Saudi Arabia, Ghana, Nigeria, China, Singapore, the UAE, and the US. I have a Bachelor of Science degree in Applied Psychology from New York University and also have close to 3 years of experience working as a Recruitment Consultant at SystemsAccountants Inc, a boutique agency that specializes in recruiting Information Systems professionals. 
+I was born in Calcutta, India but only lived there for the first year of my life. Because of my father's job, my family would move from country to country quite often, so other than India, I have also lived in Saudi Arabia, Ghana, Nigeria, China, Singapore, the UAE, and the US. I have a Bachelor of Science degree in Applied Psychology from New York University and also have close to 3 years of experience working as a Recruitment Consultant at SystemsAccountants Inc, a boutique agency that specializes in recruiting Information Systems professionals. [Link to my LinkedIn](https://www.linkedin.com/in/kita-khanna/)
+
+
 
 Here are some ideas to get you started:hELL
 - 🔭 I’m currently working on ...
