@@ -1,12 +1,8 @@
-### Hi there 👋
+# About Me
 
-<!--
-**ankitakhanna1027/ankitakhanna1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Ankita and I am currently a first-year MBA Candidate at the Simon School of Business at the University of Rochester. I am specializing in the Marketing track with the goal of going into Market Research and Market Development Strategy, as I enjoy working with people, learning about their interests, and leveraging those to create inclusive marketing solutions. 
 
-## About Me
-
-Here are some ideas to get you started:
-
+Here are some ideas to get you started:hELL
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
